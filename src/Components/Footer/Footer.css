@@ -1,0 +1,110 @@
+
+.footer{
+width: 1512px; 
+height: 304px;
+
+background: #3D7196;
+
+}
+.linkedIn, .insta, .twitter, .facebook{
+position: absolute;
+top: 21.4%;
+background: #3D7196;
+}
+
+.linkedIn{
+    position: absolute;
+    left: 8.66%;
+}
+.insta{
+position: absolute;
+left: 13.69%;
+}
+.twitter{
+    position: absolute;
+    left: 18.72%;
+}
+.facebook{
+    position: absolute;
+     left: 23.74%;
+}
+
+.c_circle{
+position: absolute;
+left: 6.75%;
+top: 80.26%;
+background: #3D7196;
+}
+
+.rights{
+    /* 2023 Mentorbridge. All Rights Reserved. */
+
+    position: absolute;
+    left: 8.75%;
+    top: 80.26%;
+width: 407px;
+height: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 25px;
+color: #F5F5F5;
+}
+
+.contact, .privacy, .term{
+position: absolute;
+left:60.5%;
+width: 150px;
+height: 25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+text-align: start;
+font-size: 21px;
+line-height: 25px;
+text-decoration-line: underline;
+color: #F5F5F5;
+}
+
+.contact{
+    position: absolute;
+    top: 18.4%;
+}
+.privacy{
+    position: absolute;
+    top: 34.4%;
+}
+.term{
+    position: absolute;
+    top: 50.4%;
+}
+
+.help, .f_about, .FAQs{
+    position: absolute;
+left:81.5%;
+width: 150px;
+height: 25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+text-align: start;
+font-size: 21px;
+line-height: 25px;
+color: #F5F5F5;
+}
+
+.help{
+    position: absolute;
+    top: 18.4%;
+}
+.f_about{
+    position: absolute;
+    top: 34.4%;
+}
+.FAQs{
+    position: absolute;
+    top: 50.4%;
+}
+

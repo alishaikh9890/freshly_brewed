@@ -1,0 +1,103 @@
+.mentor2_linkedIn, .mentor2_upload{
+   
+    width: 210px;
+    height: 45px;
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid #047E70;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.mentor2_linkedIn{
+ position: absolute;
+ left: 318px;
+    top: 383px;
+}
+.mentor2_upload{
+    position: absolute;
+    left: 369px;
+       top: 540px;
+}
+
+.or{
+position: absolute;
+width: 20px;
+height: 24px;
+left: 403px;
+top: 458px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #000000;
+}
+
+
+.mentor2_photo{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 240px;
+top: 508px;
+background: #D9D9D9;
+border-radius: 50%;
+}
+
+/* Fetch it from */
+
+/* position: absolute;
+width: 122px;
+height: 24px;
+left: 333px;
+top: 393px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000; */
+
+
+
+/* Vector */
+
+/* position: absolute;
+width: 28.57px;
+height: 28.57px;
+left: 472px;
+top: 391px;
+
+background: #3D7196; */
+
+
+
+
+.mentor2_date_input{
+box-sizing: border-box;
+position: absolute;
+left: 151px;
+top: 943px;
+border-radius: 14px;
+
+}
+.mentor2_date_input input{
+    width: 163px;
+    height: 71px;
+    border-radius: 14px;
+   border: 1px solid #949090;
+   padding-left:30px;
+   margin-right: 50px;
+}

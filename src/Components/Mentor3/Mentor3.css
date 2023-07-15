@@ -1,0 +1,144 @@
+
+
+.mentor3_img{
+
+position: absolute;
+width: 547px;
+height: 456px;
+left: 931px;
+top: 238px;
+}
+
+
+.mentor3_lable1, 
+.mentor3_lable2, 
+.mentor3_lable3, 
+.mentor3_lable4, 
+.mentor3_lable5 {
+    position: absolute;
+    width: 285px;
+    height: 24px;
+    left: 158px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: start;
+    color: #000000;
+}
+
+.mentor3_lable1{
+    position: absolute;
+    top: 408px;
+}
+.mentor3_lable2{
+    position: absolute;
+    top: 611px;
+}
+.mentor3_lable3{
+    position: absolute;
+    top: 756px;
+}
+.mentor3_lable4{
+    position: absolute;
+    top: 877px;
+}
+.mentor3_lable5{
+    position: absolute;
+    top: 993px;
+}
+
+.mentor3_input1, 
+.mentor3_input2, 
+.mentor3_input3, 
+.mentor3_input4, 
+.mentor3_input5 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 677px;
+    height: 71px;
+    left: 155px;
+    border: 1px solid #949090;
+    font-size: 15px;
+    border-radius: 14px;
+    padding-left: 25px;
+} 
+
+.mentor3_input1{
+    position: absolute;
+    top: 445px;
+}
+.mentor3_input2{
+    position: absolute;
+    top: 648px;
+}
+.mentor3_input3{
+    position: absolute;
+    top: 787px;
+}
+.mentor3_input4{
+    position: absolute;
+    top: 908px;
+}
+.mentor3_input5{
+    position: absolute;
+    top: 1029px;
+}
+
+.mentor3_button{
+    box-sizing: border-box;
+    position: absolute;
+    width: 677px;
+    height: 51px;
+    left: 155px;
+    top: 542px;
+    border: 1px solid #949090;
+    border-radius: 14px;
+    background: none;
+    display: flex;
+    justify-content: center;
+   gap: 25px;
+}
+.mentor3_button h1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+}
+
+.mentor3_complete{
+position: absolute;
+width: 228px;
+height: 60px;
+left: 413px;
+top: 1179px;
+background: linear-gradient(180deg, #27EDD5 0%, #047E70 100%);
+border-radius: 23px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+}
+
+
+.mentor3_footer{
+    position: absolute;
+    top:1407px
+}
+
